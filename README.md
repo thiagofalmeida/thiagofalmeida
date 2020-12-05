@@ -2,7 +2,7 @@
 
 I'm a enthusiast of the best web & mobile development technologies and passionate about building things.
 
-- 🌱 I’m currently learning NodeJS, ReactJS, React Native, Typescript, Docker and Jest.
+- 🌱 I’m currently learning NextsJS, React Native, Typescript, Docker and Jest.
 - 🤝 Excellent working as a team and solving problems.
 - 📫 How to reach me: The badges will help you 😉
 
